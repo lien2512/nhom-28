@@ -1,12 +1,14 @@
 # nhom-28
-Tên ứng dụng:
-Các nhóm người dùng:
+Tên ứng dụng:food for family
+Các nhóm người dùng: người học nấu ăn, bà nội trợ, những người có nhu cầu vào bếp
 Mô tả tóm tắt phần mềm :
-
-
-
-
-
++ Hỗ trợ người dùng về công thức nấu ăn
++ Cung cấp thực đơn mỗi ngày 
++ Gợi ý thực đơn dinh dưỡng mỗi ngày
++ Lời khuyên về các thực phẩm ăn kiêng cho các người bệnh.
++ Diễn đàn cho mọi người chia sẻ kinh nghiệm
 
 Phác thảo các màn hình chính của ứng dụng:
-/*Phác thảo màn hình nên tìm các (tìm công cụ có sẵn). Tốt hơn thì học và thiết kế giao diện dựa trên bootstrap luôn. Trong file readme.md có thể link đến các tài liệu khác nếu cần.*/
++ sử dụng các ngôn ngữ html, css, javascrip,..
++ có sử dụng bootstrap
++ thiết kế dựa trên các trang web dạy nấu ăn 
