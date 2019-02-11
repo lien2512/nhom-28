@@ -12,4 +12,4 @@ Phác thảo các màn hình chính của ứng dụng:
 + sử dụng các ngôn ngữ html, css, javascrip,..
 + có sử dụng bootstrap
 + thiết kế dựa trên các trang web dạy nấu ăn 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+<img src="https://drive.google.com/open?id=1BgAi0lcoR4ri3MpcW1ajoUHUZZoahoaS">
