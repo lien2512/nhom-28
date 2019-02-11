@@ -12,4 +12,4 @@ Phác thảo các màn hình chính của ứng dụng:
 + sử dụng các ngôn ngữ html, css, javascrip,..
 + có sử dụng bootstrap
 + thiết kế dựa trên các trang web dạy nấu ăn 
-<img src="https://drive.google.com/file/d/1BgAi0lcoR4ri3MpcW1ajoUHUZZoahoaS/view?usp=sharing">
+<img src="https://www140.lunapic.com/do-not-link-here-use-hosting-instead/154986797080673755?3286741371">
